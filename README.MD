@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edi Suranta Ginting</h1>
-<h3 align="center">💻 A passionate Full Stack Developer with a Frontend & UI/UX Edge</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edi39z&label=Profile%20views&color=0e75b6&style=flat" alt="edi39z" /> </p>
 
