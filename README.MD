@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Edi Suranta Ginting</h1>
 <h3 align="center">Full Stack Developer | Passionate About JavaScript & Golang</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edi39z&label=Profile%20views&color=0e75b6&style=flat" alt="edi39z" />
-</p>
 
 ---
 
