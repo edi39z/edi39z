@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Edi Suranta Ginting</h1>
-<h3 align="center">Full Stack Developer | Passionate About JavaScript & Golang</h3>
+<h3 align="center">Full Stack Developer | Passionate About JavaScript & Golang.</h3>
 
 
 ---
