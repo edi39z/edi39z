@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Edi Suranta Ginting</h1>
 <h3 align="center">Full Stack Developer | Passionate About JavaScript & Golang.</h3>
 
-
 ---
 
 - 🌱 Currently exploring **Next.js** and **Golang**
 - 💬 Ask me about **JavaScript** and **Golang**
 - 📫 Reach me at: **ediginting3421@gmail.com**
-
----
-
 
 ---
 
@@ -41,6 +37,12 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edi39z&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edi39z&show_icons=true&theme=tokyonight" alt="Edi's GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edi39z&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edi39z&theme=tokyonight" alt="GitHub Streak" />
 </p>
