@@ -1,58 +1,54 @@
-# Edi Suranta Ginting
 
-\<p align="center">
-&#x20; \<strong>Software Developer | Network & Security Enthusiast\</strong>
-\</p>
+<h1 align="center">Edi Suranta Ginting</h1>
 
-\<p align="center">
-&#x20; Computer Science graduate with experience in web development, application engineering, and UI/UX design. Interested in building reliable software systems and exploring network infrastructure and cybersecurity.
-\</p>
+<h3 align="center">Software Developer | Network & Security Enthusiast</h3>
 
-\<p align="center">
-&#x20; \<a href="mailto\:ediginting3421\@gmail.com">Email\</a> ·
-&#x20; \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">LinkedIn\</a> 
-&#x20;\</p>
+<p align="center">
+  Computer Science graduate focused on software development, application engineering, and network infrastructure.
+</p>
+
+<p align="center">
+  <a href="mailto:ediginting3421@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/barnibar/">LeetCode</a>
+</p>
 
 ---
+
+### About
+
+- Computer Science graduate from Universitas Sumatera Utara.
+- Experience in web application development and UI/UX design.
+- Interested in software engineering, networking, and cybersecurity.
+- Focused on continuous learning through practical projects.
 
 ### Technical Skills
 
-**Programming Languages**
+**Languages:** JavaScript, TypeScript, Go, Python, Kotlin
 
-- JavaScript, TypeScript, Go, Python, Kotlin
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
 
-**Frontend Development**
+**Backend:** Node.js, Go (Gin), REST API
 
-- React, Next.js, HTML, CSS, Tailwind CSS
+**Database:** PostgreSQL, SQLite, Firebase
 
-**Backend & Database**
+**Tools:** Git, Linux, Docker, Figma
 
-- Node.js, Go (Gin), REST API, PostgreSQL, SQLite
-
-**Tools & Technologies**
-
-- Git, Linux, Firebase, Figma, Docker
-
-**Areas of Interest**
-
-- Software Engineering
-- Network Engineering
-- Network Security
-- System Administration
-
----
+**Networking & Security:** TCP/IP, VLAN, Routing, Firewall, Network Monitoring
 
 ### GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=edi39z&show_icons=true&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=edi39z\&show_icons=true\&hide_border=true\&theme=transparent)" height="160" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=edi39z&layout=compact&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=edi39z\&layout=compact\&hide_border=true\&theme=transparent)" height="160" />
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edi39z&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edi39z&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=edi39z&hide_border=true&theme=transparent](https://github-readme-streak-stats.herokuapp.com/?user=edi39z\&hide_border=true\&theme=transparent)" />
-\</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edi39z&hide_border=true&theme=transparent" />
+</p>
 
-\<p align="center">
-&#x20; \<sub>Building, learning, and improving through practical projects.\</sub>
-\</p>
+<p align="center">
+  <sub>Building solutions. Learning continuously. Improving through practice.</sub>
+</p>
