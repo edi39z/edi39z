@@ -22,8 +22,6 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LINKEDIN</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/edi39z">GITHUB</a>
-  &nbsp;·&nbsp;
 </p>
 
 ---
