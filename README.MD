@@ -24,7 +24,6 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/edi39z">GITHUB</a>
   &nbsp;·&nbsp;
-  <a href="https://leetcode.com/barnibar/">LEETCODE</a>
 </p>
 
 ---
