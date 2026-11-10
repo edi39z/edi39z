@@ -1,4 +1,3 @@
-
 <h1 align="center">EDI SURANTA GINTING</h1>
 
 <h3 align="center">
@@ -9,22 +8,15 @@
   <strong>Network Engineering · Security Operations · Software Engineering</strong>
 </p>
 
-<p align="center">
-  Designing reliable infrastructure. Securing digital systems. Automating operations.
-</p>
 
 <p align="center">
-  <sub>Computer Science Graduate · Medan, Indonesia</sub>
+  <sub>Computer Science Graduate · Universitas Sumatera Utara · Medan, Indonesia</sub>
 </p>
 
 <p align="center">
   <a href="mailto:ediginting3421@gmail.com">EMAIL</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LINKEDIN</a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/edi-ginting-5b1010377/">LINKEDIN</a>
 </p>
 
 ---
-
-
-
