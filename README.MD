@@ -21,7 +21,7 @@
   <a href="mailto:ediginting3421@gmail.com">EMAIL</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LINKEDIN</a>
-  &nbsp;·&nbsp;
+  &nbsp;
 </p>
 
 ---
